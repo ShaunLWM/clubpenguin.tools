@@ -1,0 +1,29 @@
+{
+  "name": "@cpt/api",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "format": "biome check --write src"
+  },
+  "dependencies": {
+    "@clerk/backend": "^1.23.3",
+    "@hono/clerk-auth": "^2.0.0",
+    "@hono/node-server": "^1.13.7",
+    "dotenv": "^16.4.7",
+    "drizzle-orm": "^0.38.4",
+    "hono": "^4.6.17",
+    "pg": "^8.13.1"
+  },
+  "devDependencies": {
+    "@types/download": "^8.0.5",
+    "@types/node": "^20.11.17",
+    "@types/pascalcase": "^1.0.3",
+    "@types/pg": "^8.11.10",
+    "download": "^8.0.0",
+    "drizzle-kit": "^0.30.2",
+    "pascalcase": "^2.0.0",
+    "sharp": "^0.33.5",
+    "tsx": "^4.19.2"
+  }
+}

@@ -1,0 +1,2879 @@
+[
+  {
+    "name": "Set 1",
+    "key": "set-1",
+    "cards": [
+      {
+        "name": "Cart Surfer",
+        "index": 1,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/23/Card-Jitsu_Cards_full_1.png"
+      },
+      {
+        "name": "Coffee Shop",
+        "index": 2,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/eb/Card-Jitsu_Cards_full_2.png"
+      },
+      {
+        "name": "AstroBarrier",
+        "index": 3,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/a3/Card-Jitsu_Cards_full_3.png"
+      },
+      {
+        "name": "Hot Chocolate",
+        "index": 4,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/cd/Card-Jitsu_Cards_full_4.png"
+      },
+      {
+        "name": "Landing Pad",
+        "index": 5,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/5d/Card-Jitsu_Cards_full_5.png"
+      },
+      {
+        "name": "Pizza Chef",
+        "index": 6,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/42/Card-Jitsu_Cards_full_6.png"
+      },
+      {
+        "name": "Paint By Letters",
+        "index": 7,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/95/Card-Jitsu_Cards_full_7.png"
+      },
+      {
+        "name": "Mine",
+        "index": 8,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/74/Card-Jitsu_Cards_full_8.png"
+      },
+      {
+        "name": "Construction Worker",
+        "index": 9,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b4/Card-Jitsu_Cards_full_9.png"
+      },
+      {
+        "name": "Jet Pack Adventure",
+        "index": 10,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/78/Card-Jitsu_Cards_full_10.png"
+      },
+      {
+        "name": "Gift Shop",
+        "index": 11,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/af/Card-Jitsu_Cards_full_11.png"
+      },
+      {
+        "name": "Hiking In The Forest",
+        "index": 12,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/cb/Card-Jitsu_Cards_full_12.png"
+      },
+      {
+        "name": "Rescue Squad",
+        "index": 13,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d8/Card-Jitsu_Cards_full_13.png"
+      },
+      {
+        "name": "Pet Shop",
+        "index": 14,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/66/Card-Jitsu_Cards_full_14.png"
+      },
+      {
+        "name": "Ski Village",
+        "index": 15,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/a2/Card-Jitsu_Cards_full_15.png"
+      },
+      {
+        "name": "Ice Hockey",
+        "index": 16,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/0d/Card-Jitsu_Cards_full_16.png"
+      },
+      {
+        "name": "Ski Hill",
+        "index": 17,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/24/Card-Jitsu_Cards_full_17.png"
+      },
+      {
+        "name": "Snowball Fight",
+        "index": 18,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/5d/Card-Jitsu_Cards_full_18.png"
+      },
+      {
+        "name": "Snow Forts",
+        "index": 19,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/5b/Card-Jitsu_Cards_full_19.png"
+      },
+      {
+        "name": "Soccer",
+        "index": 20,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/ed/Card-Jitsu_Cards_full_20.png"
+      },
+      {
+        "name": "Beach",
+        "index": 21,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c5/Card-Jitsu_Cards_full_21.png"
+      },
+      {
+        "name": "Football",
+        "index": 22,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/e5/Card-Jitsu_Cards_full_22.png"
+      },
+      {
+        "name": "Baseball",
+        "index": 23,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b0/Card-Jitsu_Cards_full_23.png"
+      },
+      {
+        "name": "Emerald Princess",
+        "index": 24,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/87/Card-Jitsu_Cards_full_24.png"
+      },
+      {
+        "name": "Bean Counters",
+        "index": 25,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/17/Card-Jitsu_Cards_full_25.png"
+      },
+      {
+        "name": "Manhole Cover",
+        "index": 26,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/f9/Card-Jitsu_Cards_full_26.png"
+      },
+      {
+        "name": "Newspaper Archives",
+        "index": 27,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/1a/Card-Jitsu_Cards_full_27.png"
+      },
+      {
+        "name": "Underground Pool",
+        "index": 28,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/0d/Card-Jitsu_Cards_full_28.png"
+      },
+      {
+        "name": "Scuba Diving",
+        "index": 29,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/82/Card-Jitsu_Cards_full_29.png"
+      },
+      {
+        "name": "Ice Fishing",
+        "index": 30,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/0a/Card-Jitsu_Cards_full_30.png"
+      },
+      {
+        "name": "Case Of The Missing Coins",
+        "index": 31,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/0e/Card-Jitsu_Cards_full_31.png"
+      },
+      {
+        "name": "Crates And Boxes",
+        "index": 32,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/84/Card-Jitsu_Cards_full_32.png"
+      },
+      {
+        "name": "Anvil Smith",
+        "index": 33,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/81/Card-Jitsu_Cards_full_33.png"
+      },
+      {
+        "name": "Halloween",
+        "index": 34,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/19/Card-Jitsu_Cards_full_34.png"
+      },
+      {
+        "name": "Knight",
+        "index": 35,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/5b/Card-Jitsu_Cards_full_35.png"
+      },
+      {
+        "name": "Black Puffle",
+        "index": 36,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2c/Card-Jitsu_Cards_full_36.png"
+      },
+      {
+        "name": "Medieval Party",
+        "index": 37,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/f2/Card-Jitsu_Cards_full_37.png"
+      },
+      {
+        "name": "Blue Puffle",
+        "index": 38,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/65/Card-Jitsu_Cards_full_38.png"
+      },
+      {
+        "name": "Pink Puffle",
+        "index": 39,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/bd/Card-Jitsu_Cards_full_39.png"
+      },
+      {
+        "name": "Green Puffle",
+        "index": 40,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/a8/Card-Jitsu_Cards_full_40.png"
+      },
+      {
+        "name": "Puffle Furniture",
+        "index": 41,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/61/Card-Jitsu_Cards_full_41.png"
+      },
+      {
+        "name": "Purple Puffle",
+        "index": 42,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/ed/Card-Jitsu_Cards_full_42.png"
+      },
+      {
+        "name": "Red Puffle",
+        "index": 43,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/5b/Card-Jitsu_Cards_full_43.png"
+      },
+      {
+        "name": "Yellow Puffle",
+        "index": 44,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/dd/Card-Jitsu_Cards_full_44.png"
+      },
+      {
+        "name": "Summer Party",
+        "index": 45,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/e6/Card-Jitsu_Cards_full_45.png"
+      },
+      {
+        "name": "Gray Fish",
+        "index": 46,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/56/Card-Jitsu_Cards_full_46.png"
+      },
+      {
+        "name": "O Berry",
+        "index": 47,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/7b/Card-Jitsu_Cards_full_47.png"
+      },
+      {
+        "name": "Life Ring",
+        "index": 48,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/8e/Card-Jitsu_Cards_full_48.png"
+      },
+      {
+        "name": "Jolly Roger Flag",
+        "index": 49,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b0/Card-Jitsu_Cards_full_49.png"
+      },
+      {
+        "name": "Coins",
+        "index": 50,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/23/Card-Jitsu_Cards_full_50.png"
+      },
+      {
+        "name": "Gary The Gadget Guy",
+        "index": 51,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/ce/Card-Jitsu_Cards_full_51.png"
+      },
+      {
+        "name": "Buoys",
+        "index": 52,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/35/Card-Jitsu_Cards_full_52.png"
+      },
+      {
+        "name": "Yarr",
+        "index": 53,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/20/Card-Jitsu_Cards_full_53.png"
+      },
+      {
+        "name": "Klutzy",
+        "index": 54,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b5/Card-Jitsu_Cards_full_54.png"
+      },
+      {
+        "name": "Herbert P Bear",
+        "index": 55,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/7a/Card-Jitsu_Cards_full_55.png"
+      },
+      {
+        "name": "Hot Sauce",
+        "index": 56,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/90/Card-Jitsu_Cards_full_56.png"
+      },
+      {
+        "name": "Snow Castle",
+        "index": 57,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/af/Card-Jitsu_Cards_full_57.png"
+      },
+      {
+        "name": "Aunt Arctic",
+        "index": 58,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d6/Card-Jitsu_Cards_full_58.png"
+      },
+      {
+        "name": "Christmas Carols",
+        "index": 59,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/ff/Card-Jitsu_Cards_full_59.png"
+      },
+      {
+        "name": "Beta Party",
+        "index": 60,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/8a/Card-Jitsu_Cards_full_60.png"
+      },
+      {
+        "name": "Hidden Items",
+        "index": 61,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/55/Card-Jitsu_Cards_full_61.png"
+      },
+      {
+        "name": "Secret Agent",
+        "index": 62,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/7d/Card-Jitsu_Cards_full_62.png"
+      },
+      {
+        "name": "Snow Shovel",
+        "index": 63,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/9a/Card-Jitsu_Cards_full_63.png"
+      },
+      {
+        "name": "The Migrator",
+        "index": 64,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/e6/Card-Jitsu_Cards_full_64.png"
+      },
+      {
+        "name": "Captain Rockhopper",
+        "index": 65,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/8e/Card-Jitsu_Cards_full_65.png"
+      },
+      {
+        "name": "Ice Cream",
+        "index": 66,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b0/Card-Jitsu_Cards_full_66.png"
+      },
+      {
+        "name": "Mullet",
+        "index": 67,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/cf/Card-Jitsu_Cards_full_67.png"
+      },
+      {
+        "name": "Underground Flood",
+        "index": 68,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/64/Card-Jitsu_Cards_full_68.png"
+      },
+      {
+        "name": "Fluffy The Fish",
+        "index": 69,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/bd/Card-Jitsu_Cards_full_69.png"
+      },
+      {
+        "name": "Shark",
+        "index": 70,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/61/Card-Jitsu_Cards_full_70.png"
+      },
+      {
+        "name": "Flooring Upgrade",
+        "index": 71,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/4c/Card-Jitsu_Cards_full_71.png"
+      },
+      {
+        "name": "Gadget Room",
+        "index": 72,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/7c/Card-Jitsu_Cards_full_72.png"
+      },
+      {
+        "name": "Jackhammer",
+        "index": 73,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/44/Card-Jitsu_Cards_full_73.png"
+      },
+      {
+        "name": "Jet Pack",
+        "index": 74,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c8/Card-Jitsu_Cards_full_74.png"
+      },
+      {
+        "name": "Thin Ice",
+        "index": 75,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/42/Card-Jitsu_Cards_full_75.png"
+      },
+      {
+        "name": "Night Vision Goggles",
+        "index": 76,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/45/Card-Jitsu_Cards_full_76.png"
+      },
+      {
+        "name": "Mighty Plunger",
+        "index": 77,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c4/Card-Jitsu_Cards_full_77.png"
+      },
+      {
+        "name": "Dragon",
+        "index": 78,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/30/Card-Jitsu_Cards_full_78.png"
+      },
+      {
+        "name": "Space Adventure",
+        "index": 79,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/67/Card-Jitsu_Cards_full_79.png"
+      },
+      {
+        "name": "Tour Guide",
+        "index": 80,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/89/Card-Jitsu_Cards_full_80.png"
+      },
+      {
+        "name": "Sled Racing",
+        "index": 81,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/4d/Card-Jitsu_Cards_full_81.png"
+      },
+      {
+        "name": "Puffle RoundUp",
+        "index": 82,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/44/Card-Jitsu_Cards_full_82.png"
+      },
+      {
+        "name": "Ac3000",
+        "index": 83,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/06/Card-Jitsu_Cards_full_83.png"
+      },
+      {
+        "name": "Snow Globe Igloo",
+        "index": 84,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/66/Card-Jitsu_Cards_full_84.png"
+      },
+      {
+        "name": "Shadow Guy Amp Gamma Gal",
+        "index": 85,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/89/Card-Jitsu_Cards_full_85.png"
+      },
+      {
+        "name": "Avalanche",
+        "index": 86,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2c/Card-Jitsu_Cards_full_86.png"
+      },
+      {
+        "name": "Water Party",
+        "index": 87,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b2/Card-Jitsu_Cards_full_87.png"
+      },
+      {
+        "name": "Catchin Waves",
+        "index": 88,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/27/Card-Jitsu_Cards_full_88.png"
+      },
+      {
+        "name": "Firefighter",
+        "index": 89,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/8f/Card-Jitsu_Cards_full_89.png"
+      },
+      {
+        "name": "Aqua Grabber",
+        "index": 90,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/62/Card-Jitsu_Cards_full_90.png"
+      },
+      {
+        "name": "Octopus",
+        "index": 91,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/25/Card-Jitsu_Cards_full_91.png"
+      },
+      {
+        "name": "Cactus",
+        "index": 92,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/de/Card-Jitsu_Cards_full_92.png"
+      },
+      {
+        "name": "Tipping The Iceberg",
+        "index": 93,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/5a/Card-Jitsu_Cards_full_93.png"
+      },
+      {
+        "name": "Ninja",
+        "index": 94,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/1a/Card-Jitsu_Cards_full_94.png"
+      },
+      {
+        "name": "Customize Your Penguin - Surfboards Background",
+        "index": 95,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b9/Card-Jitsu_Cards_full_C_1-1.png"
+      },
+      {
+        "name": "Customize Your Penguin - Sunset Background",
+        "index": 96,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/01/Card-Jitsu_Cards_full_C_1-2.png"
+      },
+      {
+        "name": "Customize Your Penguin - Disco Background",
+        "index": 97,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/41/Card-Jitsu_Cards_full_C_1-3.png"
+      },
+      {
+        "name": "Customize Your Penguin - Adventure Background Id 987",
+        "index": 98,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/1b/Card-Jitsu_Cards_full_C_1-4.png"
+      },
+      {
+        "name": "Customize Your Penguin - Blossom Background",
+        "index": 99,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/69/Card-Jitsu_Cards_full_C_1-5.png"
+      },
+      {
+        "name": "Customize Your Penguin - Aurora Background",
+        "index": 100,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/72/Card-Jitsu_Cards_full_C_1-6.png"
+      },
+      {
+        "name": "Customize Your Penguin - Hockey Background",
+        "index": 101,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/58/Card-Jitsu_Cards_full_C_1-7.png"
+      },
+      {
+        "name": "Customize Your Penguin - Beach Background",
+        "index": 102,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/f9/Card-Jitsu_Cards_full_C_1-8.png"
+      },
+      {
+        "name": "Customize Your Penguin - Winter Background",
+        "index": 103,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/dc/Card-Jitsu_Cards_full_C_1-9.png"
+      },
+      {
+        "name": "Customize Your Penguin - Christmas Trees Background",
+        "index": 104,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/f1/Card-Jitsu_Cards_full_C_1-10.png"
+      },
+      {
+        "name": "Customize Your Penguin - Fireflies Background",
+        "index": 105,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/1d/Card-Jitsu_Cards_full_C_1-11.png"
+      },
+      {
+        "name": "Customize Your Penguin - Football Background",
+        "index": 106,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d6/Card-Jitsu_Cards_full_C_1-12.png"
+      },
+      {
+        "name": "Customize Your Penguin - Space Background",
+        "index": 107,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/3c/Card-Jitsu_Cards_full_C_1-13.png"
+      },
+      {
+        "name": "Customize Your Penguin - Bamboo Background",
+        "index": 108,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d6/Card-Jitsu_Cards_full_C_1-14.png"
+      },
+      {
+        "name": "Customize Your Penguin - Western Sunset Background",
+        "index": 109,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2b/Card-Jitsu_Cards_full_C_1-15.png"
+      },
+      {
+        "name": "Customize Your Penguin - Spooky Trees Background",
+        "index": 110,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/04/Card-Jitsu_Cards_full_C_1-16.png"
+      }
+    ]
+  },
+  {
+    "name": "Card-Jitsu Puffle Deck",
+    "key": "cj-puffle",
+    "cards": [
+      {
+        "name": "White Puffle",
+        "index": 1,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b2/Card-Jitsu_Cards_full_95.png"
+      },
+      {
+        "name": "Yarr",
+        "index": 2,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2c/Card-Jitsu_Cards_full_96.png"
+      },
+      {
+        "name": "Keeper Of The Boiler Room",
+        "index": 3,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/3c/Card-Jitsu_Cards_full_97.png"
+      },
+      {
+        "name": "Blast",
+        "index": 4,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/ce/Card-Jitsu_Cards_full_98.png"
+      },
+      {
+        "name": "Flare",
+        "index": 5,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/6b/Card-Jitsu_Cards_full_99.png"
+      },
+      {
+        "name": "Chirp",
+        "index": 6,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c5/Card-Jitsu_Cards_full_100.png"
+      },
+      {
+        "name": "Pop",
+        "index": 7,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/f2/Card-Jitsu_Cards_full_101.png"
+      },
+      {
+        "name": "Loop",
+        "index": 8,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/a3/Card-Jitsu_Cards_full_102.png"
+      },
+      {
+        "name": "Flit",
+        "index": 9,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/1e/Card-Jitsu_Cards_full_103.png"
+      },
+      {
+        "name": "Bouncer",
+        "index": 10,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/81/Card-Jitsu_Cards_full_104.png"
+      },
+      {
+        "name": "Ed Mccool And Destructo",
+        "index": 11,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/86/Card-Jitsu_Cards_full_105.png"
+      },
+      {
+        "name": "Niblet",
+        "index": 12,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c2/Card-Jitsu_Cards_full_106.png"
+      },
+      {
+        "name": "Snowy Night",
+        "index": 13,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/85/Card-Jitsu_Cards_full_107.png"
+      },
+      {
+        "name": "Puffles On The Loose",
+        "index": 14,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c6/Card-Jitsu_Cards_full_108.png"
+      },
+      {
+        "name": "Cadence And The Keeper",
+        "index": 15,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/8b/Card-Jitsu_Cards_full_109.png"
+      },
+      {
+        "name": "Golden Puffle",
+        "index": 16,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/05/Card-Jitsu_Cards_full_110.png"
+      },
+      {
+        "name": "Meteor Puffle",
+        "index": 17,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/5f/Card-Jitsu_Cards_full_111.png"
+      },
+      {
+        "name": "Rainbow Puffle",
+        "index": 18,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/ea/Card-Jitsu_Cards_full_112.png"
+      },
+      {
+        "name": "Abominable Snow Puffle",
+        "index": 19,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/6b/Card-Jitsu_Cards_full_113.png"
+      },
+      {
+        "name": "Black Puffle",
+        "index": 20,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2c/Card-Jitsu_Cards_full_36.png"
+      },
+      {
+        "name": "Blue Puffle",
+        "index": 21,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/65/Card-Jitsu_Cards_full_38.png"
+      },
+      {
+        "name": "Pink Puffle",
+        "index": 22,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/bd/Card-Jitsu_Cards_full_39.png"
+      },
+      {
+        "name": "Green Puffle",
+        "index": 23,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/a8/Card-Jitsu_Cards_full_40.png"
+      },
+      {
+        "name": "Puffle Furniture",
+        "index": 24,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/61/Card-Jitsu_Cards_full_41.png"
+      },
+      {
+        "name": "Purple Puffle",
+        "index": 25,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/ed/Card-Jitsu_Cards_full_42.png"
+      },
+      {
+        "name": "Red Puffle",
+        "index": 26,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/5b/Card-Jitsu_Cards_full_43.png"
+      },
+      {
+        "name": "Yellow Puffle",
+        "index": 27,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/dd/Card-Jitsu_Cards_full_44.png"
+      },
+      {
+        "name": "Thin Ice",
+        "index": 28,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/42/Card-Jitsu_Cards_full_75.png"
+      },
+      {
+        "name": "Puffle RoundUp",
+        "index": 29,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/44/Card-Jitsu_Cards_full_82.png"
+      },
+      {
+        "name": "Aqua Grabber",
+        "index": 30,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/62/Card-Jitsu_Cards_full_90.png"
+      }
+    ]
+  },
+  {
+    "name": "Card-Jitsu",
+    "key": "cj",
+    "cards": [
+      {
+        "name": "Club Penguin Times",
+        "index": 1,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/39/Card-Jitsu_Cards_full_201.png"
+      },
+      {
+        "name": "Can Of Worms",
+        "index": 2,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/bf/Card-Jitsu_Cards_full_202.png"
+      },
+      {
+        "name": "Winter Fiesta Party",
+        "index": 3,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/36/Card-Jitsu_Cards_full_203.png"
+      },
+      {
+        "name": "Invisible Ninja Suit",
+        "index": 4,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/6d/Card-Jitsu_Cards_full_204.png"
+      },
+      {
+        "name": "Penguin Mail",
+        "index": 5,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/69/Card-Jitsu_Cards_full_205.png"
+      },
+      {
+        "name": "Bumble Bee",
+        "index": 6,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/27/Card-Jitsu_Cards_full_206.png"
+      },
+      {
+        "name": "Pizzatron 3000",
+        "index": 7,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c4/Card-Jitsu_Cards_full_207.png"
+      },
+      {
+        "name": "CardJitsu",
+        "index": 8,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/7e/Card-Jitsu_Cards_full_208.png"
+      },
+      {
+        "name": "AdoptAPuffle",
+        "index": 9,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c8/Card-Jitsu_Cards_full_209.png"
+      },
+      {
+        "name": "Rock Amp Roll Suit",
+        "index": 10,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/43/Card-Jitsu_Cards_full_210.png"
+      },
+      {
+        "name": "Construction",
+        "index": 11,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/82/Card-Jitsu_Cards_full_211.png"
+      },
+      {
+        "name": "Hidden Pins",
+        "index": 12,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/51/Card-Jitsu_Cards_full_212.png"
+      },
+      {
+        "name": "Treasure Hunt Game",
+        "index": 13,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/3f/Card-Jitsu_Cards_full_213.png"
+      },
+      {
+        "name": "Dj3K",
+        "index": 14,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/45/Card-Jitsu_Cards_full_214.png"
+      },
+      {
+        "name": "Surf Boards",
+        "index": 15,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b1/Card-Jitsu_Cards_full_215.png"
+      },
+      {
+        "name": "Beach Chair Chilling",
+        "index": 16,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2b/Card-Jitsu_Cards_full_216.png"
+      },
+      {
+        "name": "Telescope",
+        "index": 17,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/1f/Card-Jitsu_Cards_full_217.png"
+      },
+      {
+        "name": "Fish Costume",
+        "index": 18,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/04/Card-Jitsu_Cards_full_218.png"
+      },
+      {
+        "name": "CrowS Nest",
+        "index": 19,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/be/Card-Jitsu_Cards_full_219.png"
+      },
+      {
+        "name": "The Cove",
+        "index": 20,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/18/Card-Jitsu_Cards_full_220.png"
+      },
+      {
+        "name": "CaptainS Quarters",
+        "index": 21,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/e2/Card-Jitsu_Cards_full_221.png"
+      },
+      {
+        "name": "Iceberg",
+        "index": 22,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/cd/Card-Jitsu_Cards_full_222.png"
+      },
+      {
+        "name": "The Lounge",
+        "index": 23,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/45/Card-Jitsu_Cards_full_223.png"
+      },
+      {
+        "name": "RockhopperS Key",
+        "index": 24,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/cd/Card-Jitsu_Cards_full_224.png"
+      },
+      {
+        "name": "Penguins That Time Forgot",
+        "index": 25,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/98/Card-Jitsu_Cards_full_225.png"
+      },
+      {
+        "name": "Team Blue Rally",
+        "index": 26,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/3e/Card-Jitsu_Cards_full_226.png"
+      },
+      {
+        "name": "Jet Pack Adventure",
+        "index": 27,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d1/Card-Jitsu_Cards_full_227.png"
+      },
+      {
+        "name": "Ruby And The Ruby",
+        "index": 28,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/68/Card-Jitsu_Cards_full_228.png"
+      },
+      {
+        "name": "Snowball Fight",
+        "index": 29,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/45/Card-Jitsu_Cards_full_229.png"
+      },
+      {
+        "name": "Snowball Press",
+        "index": 30,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d1/Card-Jitsu_Cards_full_230.png"
+      },
+      {
+        "name": "Music Jam",
+        "index": 31,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/52/Card-Jitsu_Cards_full_231.png"
+      },
+      {
+        "name": "Puffle ChewChew",
+        "index": 32,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/e4/Card-Jitsu_Cards_full_232.png"
+      },
+      {
+        "name": "Fairy Fables",
+        "index": 33,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/4d/Card-Jitsu_Cards_full_233.png"
+      },
+      {
+        "name": "Jelly Fish",
+        "index": 34,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/49/Card-Jitsu_Cards_full_234.png"
+      },
+      {
+        "name": "Pirate",
+        "index": 35,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/5c/Card-Jitsu_Cards_full_235.png"
+      },
+      {
+        "name": "Fish Bait",
+        "index": 36,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/9f/Card-Jitsu_Cards_full_236.png"
+      },
+      {
+        "name": "Hydro Hopper",
+        "index": 37,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/fb/Card-Jitsu_Cards_full_237.png"
+      },
+      {
+        "name": "Puffle OS",
+        "index": 38,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d3/Card-Jitsu_Cards_full_238.png"
+      },
+      {
+        "name": "Fall Fair Games",
+        "index": 39,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/7e/Card-Jitsu_Cards_full_239.png"
+      },
+      {
+        "name": "ThingaMaJig 3000",
+        "index": 40,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/7b/Card-Jitsu_Cards_full_240.png"
+      },
+      {
+        "name": "Rad Scientist",
+        "index": 41,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/1e/Card-Jitsu_Cards_full_241.png"
+      },
+      {
+        "name": "Quip And Qua",
+        "index": 42,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d8/Card-Jitsu_Cards_full_242.png"
+      },
+      {
+        "name": "Twee",
+        "index": 43,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/70/Card-Jitsu_Cards_full_243.png"
+      },
+      {
+        "name": "Coins For Change",
+        "index": 44,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/17/Card-Jitsu_Cards_full_244.png"
+      },
+      {
+        "name": "Surfing With The Sharks",
+        "index": 45,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/32/Card-Jitsu_Cards_full_245.png"
+      },
+      {
+        "name": "Dance Contest",
+        "index": 46,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/69/Card-Jitsu_Cards_full_246.png"
+      },
+      {
+        "name": "Purple Octopus",
+        "index": 47,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/0a/Card-Jitsu_Cards_full_247.png"
+      },
+      {
+        "name": "Giant Squid",
+        "index": 48,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/f3/Card-Jitsu_Cards_full_248.png"
+      },
+      {
+        "name": "Penguin Band",
+        "index": 49,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/a1/Card-Jitsu_Cards_full_249.png"
+      },
+      {
+        "name": "Dojo Sketch",
+        "index": 50,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/a7/Card-Jitsu_Cards_full_250.png"
+      },
+      {
+        "name": "Flare Flinger 3000",
+        "index": 51,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/a5/Card-Jitsu_Cards_full_251.png"
+      },
+      {
+        "name": "Herbert Amp Klutzy",
+        "index": 52,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/55/Card-Jitsu_Cards_full_252.png"
+      },
+      {
+        "name": "Coffee Delivery Truck",
+        "index": 53,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/4e/Card-Jitsu_Cards_full_253.png"
+      },
+      {
+        "name": "Anniversary Party",
+        "index": 54,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d1/Card-Jitsu_Cards_full_254.png"
+      },
+      {
+        "name": "Halloween Party",
+        "index": 55,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/93/Card-Jitsu_Cards_full_255.png"
+      },
+      {
+        "name": "Sensei",
+        "index": 56,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/69/Card-Jitsu_Cards_full_256.png"
+      },
+      {
+        "name": "Jackhammers",
+        "index": 57,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/03/Card-Jitsu_Cards_full_257.png"
+      },
+      {
+        "name": "Quest For The Golden Puffle",
+        "index": 58,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/89/Card-Jitsu_Cards_full_258.png"
+      },
+      {
+        "name": "Storm",
+        "index": 59,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/7a/Card-Jitsu_Cards_full_259.png"
+      },
+      {
+        "name": "Rockhopper",
+        "index": 60,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/e8/Card-Jitsu_Cards_full_260.png"
+      },
+      {
+        "name": "Customize Your Penguin - Leprechaun Background",
+        "index": 61,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/91/Card-Jitsu_Cards_full_C_3-1.png"
+      },
+      {
+        "name": "Customize Your Penguin - Fish Background",
+        "index": 62,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/78/Card-Jitsu_Cards_full_C_3-2.png"
+      },
+      {
+        "name": "Customize Your Penguin - Stormy Background",
+        "index": 63,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/7e/Card-Jitsu_Cards_full_C_3-3.png"
+      },
+      {
+        "name": "Customize Your Penguin - Snow Forts Background",
+        "index": 64,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/6c/Card-Jitsu_Cards_full_C_3-4.png"
+      },
+      {
+        "name": "Customize Your Penguin - Karaoke Background",
+        "index": 65,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/15/Card-Jitsu_Cards_full_C_3-5.png"
+      },
+      {
+        "name": "Customize Your Penguin - Pinata Background",
+        "index": 66,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/e4/Card-Jitsu_Cards_full_C_3-6.png"
+      },
+      {
+        "name": "Customize Your Penguin - Camping Background",
+        "index": 67,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/11/Card-Jitsu_Cards_full_C_3-7.png"
+      },
+      {
+        "name": "Customize Your Penguin - Melting Background",
+        "index": 68,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/3f/Card-Jitsu_Cards_full_C_3-8.png"
+      }
+    ]
+  },
+  {
+    "name": "Card-Jitsu: Fire",
+    "key": "cj-fire",
+    "cards": [
+      {
+        "name": "Camera",
+        "index": 1,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/77/Card-Jitsu_Cards_full_301.png"
+      },
+      {
+        "name": "Wigs",
+        "index": 2,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/78/Card-Jitsu_Cards_full_302.png"
+      },
+      {
+        "name": "Pizza Parlor",
+        "index": 3,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/e6/Card-Jitsu_Cards_full_303.png"
+      },
+      {
+        "name": "Coffee Machine",
+        "index": 4,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/bf/Card-Jitsu_Cards_full_304.png"
+      },
+      {
+        "name": "Costume Trunk",
+        "index": 5,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/23/Card-Jitsu_Cards_full_305.png"
+      },
+      {
+        "name": "Pet Shop Staff",
+        "index": 6,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2e/Card-Jitsu_Cards_full_306.png"
+      },
+      {
+        "name": "Stompin Bob",
+        "index": 7,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/0b/Card-Jitsu_Cards_full_307.png"
+      },
+      {
+        "name": "G Billy",
+        "index": 8,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/06/Card-Jitsu_Cards_full_308.png"
+      },
+      {
+        "name": "Outdoor Igloo",
+        "index": 9,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/92/Card-Jitsu_Cards_full_309.png"
+      },
+      {
+        "name": "Ticket Booth",
+        "index": 10,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/e5/Card-Jitsu_Cards_full_310.png"
+      },
+      {
+        "name": "Ridge Run",
+        "index": 11,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/3f/Card-Jitsu_Cards_full_311.png"
+      },
+      {
+        "name": "Clock Tower",
+        "index": 12,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/5f/Card-Jitsu_Cards_full_312.png"
+      },
+      {
+        "name": "White Puffles",
+        "index": 13,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/7f/Card-Jitsu_Cards_full_313.png"
+      },
+      {
+        "name": "Dojo Courtyard",
+        "index": 14,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/fc/Card-Jitsu_Cards_full_314.png"
+      },
+      {
+        "name": "Rocking Horse",
+        "index": 15,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/55/Card-Jitsu_Cards_full_315.png"
+      },
+      {
+        "name": "Penguin Style",
+        "index": 16,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2e/Card-Jitsu_Cards_full_316.png"
+      },
+      {
+        "name": "Stage Director",
+        "index": 17,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/03/Card-Jitsu_Cards_full_317.png"
+      },
+      {
+        "name": "Conductor",
+        "index": 18,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/3d/Card-Jitsu_Cards_full_318.png"
+      },
+      {
+        "name": "Beacon",
+        "index": 19,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2b/Card-Jitsu_Cards_full_319.png"
+      },
+      {
+        "name": "Discovering The Underground",
+        "index": 20,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/56/Card-Jitsu_Cards_full_320.png"
+      },
+      {
+        "name": "Franky",
+        "index": 21,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/f7/Card-Jitsu_Cards_full_321.png"
+      },
+      {
+        "name": "Petey K",
+        "index": 22,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/7e/Card-Jitsu_Cards_full_322.png"
+      },
+      {
+        "name": "Boombox",
+        "index": 23,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/ea/Card-Jitsu_Cards_full_323.png"
+      },
+      {
+        "name": "Mild Mannered Reporter",
+        "index": 24,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/94/Card-Jitsu_Cards_full_324.png"
+      },
+      {
+        "name": "The Twelfth Fish",
+        "index": 25,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b8/Card-Jitsu_Cards_full_325.png"
+      },
+      {
+        "name": "April FoolS Day Party",
+        "index": 26,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/4f/Card-Jitsu_Cards_full_326.png"
+      },
+      {
+        "name": "Plasma Glow Wave",
+        "index": 27,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/75/Card-Jitsu_Cards_full_327.png"
+      },
+      {
+        "name": "Cowbell",
+        "index": 28,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/0a/Card-Jitsu_Cards_full_328.png"
+      },
+      {
+        "name": "O Berry Bush",
+        "index": 29,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/0d/Card-Jitsu_Cards_full_329.png"
+      },
+      {
+        "name": "Chester The Time Traveler",
+        "index": 30,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d6/Card-Jitsu_Cards_full_330.png"
+      },
+      {
+        "name": "101 Days Of Fun",
+        "index": 31,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/99/Card-Jitsu_Cards_full_331.png"
+      },
+      {
+        "name": "Color Vote",
+        "index": 32,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/96/Card-Jitsu_Cards_full_332.png"
+      },
+      {
+        "name": "Christmas Party",
+        "index": 33,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/ec/Card-Jitsu_Cards_full_333.png"
+      },
+      {
+        "name": "Viking Opera",
+        "index": 34,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/0d/Card-Jitsu_Cards_full_334.png"
+      },
+      {
+        "name": "Water Balloons",
+        "index": 35,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/01/Card-Jitsu_Cards_full_335.png"
+      },
+      {
+        "name": "Tuba",
+        "index": 36,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/e6/Card-Jitsu_Cards_full_336.png"
+      },
+      {
+        "name": "RockhopperS Plants",
+        "index": 37,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/13/Card-Jitsu_Cards_full_337.png"
+      },
+      {
+        "name": "Adventure Party",
+        "index": 38,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/f4/Card-Jitsu_Cards_full_338.png"
+      },
+      {
+        "name": "Penguin Play Awards",
+        "index": 39,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/6d/Card-Jitsu_Cards_full_339.png"
+      },
+      {
+        "name": "AllAccess Pass",
+        "index": 40,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/79/Card-Jitsu_Cards_full_340.png"
+      },
+      {
+        "name": "CadenceS Autograph",
+        "index": 41,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/9f/Card-Jitsu_Cards_full_341.png"
+      },
+      {
+        "name": "Treasure Book",
+        "index": 42,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/df/Card-Jitsu_Cards_full_342.png"
+      },
+      {
+        "name": "Black Hoodie",
+        "index": 43,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/75/Card-Jitsu_Cards_full_343.png"
+      },
+      {
+        "name": "Propellor Cap",
+        "index": 44,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/1b/Card-Jitsu_Cards_full_344.png"
+      },
+      {
+        "name": "Dessert Pizza",
+        "index": 45,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b2/Card-Jitsu_Cards_full_345.png"
+      },
+      {
+        "name": "Black Electric Guitar",
+        "index": 46,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/3c/Card-Jitsu_Cards_full_346.png"
+      },
+      {
+        "name": "Mastering The Elements",
+        "index": 47,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/cd/Card-Jitsu_Cards_full_347.png"
+      },
+      {
+        "name": "Elite Penguin Force",
+        "index": 48,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/9c/Card-Jitsu_Cards_full_348.png"
+      },
+      {
+        "name": "Switchbox 3000",
+        "index": 49,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/6c/Card-Jitsu_Cards_full_349.png"
+      },
+      {
+        "name": "Medieval Party",
+        "index": 50,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/41/Card-Jitsu_Cards_full_350.png"
+      },
+      {
+        "name": "Cadence",
+        "index": 51,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/75/Card-Jitsu_Cards_full_351.png"
+      },
+      {
+        "name": "Cloud Wave",
+        "index": 52,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/06/Card-Jitsu_Cards_full_352.png"
+      },
+      {
+        "name": "Ghost Sheet",
+        "index": 53,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/5a/Card-Jitsu_Cards_full_353.png"
+      },
+      {
+        "name": "Cart Surfer",
+        "index": 54,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2f/Card-Jitsu_Cards_full_354.png"
+      },
+      {
+        "name": "Keytar",
+        "index": 55,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/ea/Card-Jitsu_Cards_full_355.png"
+      },
+      {
+        "name": "XTreme Jetpack",
+        "index": 56,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/1d/Card-Jitsu_Cards_full_356.png"
+      },
+      {
+        "name": "Box Dimension",
+        "index": 57,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/eb/Card-Jitsu_Cards_full_357.png"
+      },
+      {
+        "name": "Gold Viking Helmet",
+        "index": 58,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/3a/Card-Jitsu_Cards_full_358.png"
+      },
+      {
+        "name": "Gary The Gadget Guy",
+        "index": 59,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/66/Card-Jitsu_Cards_full_359.png"
+      },
+      {
+        "name": "RockhopperS Cannon",
+        "index": 60,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/13/Card-Jitsu_Cards_full_360.png"
+      },
+      {
+        "name": "Customize Your Penguin - Tiki Coffee Shop Background",
+        "index": 61,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2e/Card-Jitsu_Cards_full_C_4-1.png"
+      },
+      {
+        "name": "Customize Your Penguin - Tropical Palm Background",
+        "index": 62,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2a/Card-Jitsu_Cards_full_C_4-2.png"
+      },
+      {
+        "name": "Customize Your Penguin - Castle Background",
+        "index": 63,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/df/Card-Jitsu_Cards_full_C_4-3.png"
+      },
+      {
+        "name": "Customize Your Penguin - Beach Chairs Background",
+        "index": 64,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/ab/Card-Jitsu_Cards_full_C_4-4.png"
+      },
+      {
+        "name": "Customize Your Penguin - Picnic Background",
+        "index": 65,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/ea/Card-Jitsu_Cards_full_C_4-5.png"
+      },
+      {
+        "name": "Customize Your Penguin - Awards Background",
+        "index": 66,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/f1/Card-Jitsu_Cards_full_C_4-6.png"
+      },
+      {
+        "name": "Customize Your Penguin - Gym Background",
+        "index": 67,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/7e/Card-Jitsu_Cards_full_C_4-7.png"
+      },
+      {
+        "name": "Customize Your Penguin - Enchanted Forest Background",
+        "index": 68,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/73/Card-Jitsu_Cards_full_C_4-8.png"
+      }
+    ]
+  },
+  {
+    "name": "Card-Jitsu: Fire Expansion Deck",
+    "key": "cj-fire-expansion",
+    "cards": [
+      {
+        "name": "Multiplayer Battle",
+        "index": 1,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/24/Card-Jitsu_Cards_full_401.png"
+      },
+      {
+        "name": "Hot Sauce",
+        "index": 2,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/18/Card-Jitsu_Cards_full_402.png"
+      },
+      {
+        "name": "Fired Up",
+        "index": 3,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/e4/Card-Jitsu_Cards_full_403.png"
+      },
+      {
+        "name": "Goldsmith",
+        "index": 4,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2d/Card-Jitsu_Cards_full_404.png"
+      },
+      {
+        "name": "Ninja Battle Scroll",
+        "index": 5,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/38/Card-Jitsu_Cards_full_405.png"
+      },
+      {
+        "name": "The Volcano Awakens",
+        "index": 6,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/65/Card-Jitsu_Cards_full_406.png"
+      },
+      {
+        "name": "Prepare For Battle",
+        "index": 7,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/5f/Card-Jitsu_Cards_full_407.png"
+      },
+      {
+        "name": "Flying Flippers Emporium",
+        "index": 8,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/f1/Card-Jitsu_Cards_full_408.png"
+      },
+      {
+        "name": "CardJitsu Fire Duel",
+        "index": 9,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/70/Card-Jitsu_Cards_full_409.png"
+      },
+      {
+        "name": "SenseiS Game Face",
+        "index": 10,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/87/Card-Jitsu_Cards_full_410.png"
+      },
+      {
+        "name": "Building The Entrance",
+        "index": 11,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/ad/Card-Jitsu_Cards_full_411.png"
+      },
+      {
+        "name": "Amulet Inscription",
+        "index": 12,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/a7/Card-Jitsu_Cards_full_412.png"
+      },
+      {
+        "name": "The Quest For Fire",
+        "index": 13,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b1/Card-Jitsu_Cards_full_413.png"
+      },
+      {
+        "name": "Stoking The Volcano",
+        "index": 14,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/cd/Card-Jitsu_Cards_full_414.png"
+      },
+      {
+        "name": "Fire Deck",
+        "index": 15,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/f2/Card-Jitsu_Cards_full_Fire_Deck.jpeg"
+      },
+      {
+        "name": "Fire Ninja Stance",
+        "index": 16,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/f6/Card-Jitsu_Cards_full_416.png"
+      },
+      {
+        "name": "Ninja Sketches",
+        "index": 17,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/44/Card-Jitsu_Cards_full_417.png"
+      },
+      {
+        "name": "Fire Ninja Statue",
+        "index": 18,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/53/Card-Jitsu_Cards_full_418.png"
+      },
+      {
+        "name": "Tub Of Hot Sauce",
+        "index": 19,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b7/Card-Jitsu_Cards_full_419.png"
+      },
+      {
+        "name": "Fire Dojo Sketch",
+        "index": 20,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/24/Card-Jitsu_Cards_full_420.png"
+      },
+      {
+        "name": "Sensei",
+        "index": 21,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/94/Card-Jitsu_Cards_full_421.png"
+      },
+      {
+        "name": "Volcano Entrance Sketch",
+        "index": 22,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/13/Card-Jitsu_Cards_full_422.png"
+      },
+      {
+        "name": "The Amulet",
+        "index": 23,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/88/Card-Jitsu_Cards_full_423.png"
+      },
+      {
+        "name": "Journey To The Volcano",
+        "index": 24,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/55/Card-Jitsu_Cards_full_424.png"
+      },
+      {
+        "name": "Volcano Entrance",
+        "index": 25,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/93/Card-Jitsu_Cards_full_425.png"
+      },
+      {
+        "name": "SenseiS Fire Robes",
+        "index": 26,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/69/Card-Jitsu_Cards_full_426.png"
+      },
+      {
+        "name": "Fire Ninja",
+        "index": 27,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b8/Card-Jitsu_Cards_full_427.png"
+      },
+      {
+        "name": "Customize Your Penguin",
+        "index": 28,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/60/Card-Jitsu_Cards_full_C_5-1.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "Card-Jitsu: Water",
+    "key": "cj-water",
+    "cards": [
+      {
+        "name": "Monkey King",
+        "index": 1,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/6b/Card-Jitsu_Cards_full_501.png"
+      },
+      {
+        "name": "Jet Pack Pilot",
+        "index": 2,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/3d/Card-Jitsu_Cards_full_502.png"
+      },
+      {
+        "name": "Fairy Princess",
+        "index": 3,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/85/Card-Jitsu_Cards_full_503.png"
+      },
+      {
+        "name": "Puffle Grooming",
+        "index": 4,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/f3/Card-Jitsu_Cards_full_504.png"
+      },
+      {
+        "name": "Halloween Costumes",
+        "index": 5,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/e9/Card-Jitsu_Cards_full_505.png"
+      },
+      {
+        "name": "Costume Show",
+        "index": 6,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/10/Card-Jitsu_Cards_full_506.png"
+      },
+      {
+        "name": "Soccer Match",
+        "index": 7,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/18/Card-Jitsu_Cards_full_507.png"
+      },
+      {
+        "name": "Bean Counters",
+        "index": 8,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/cc/Card-Jitsu_Cards_full_508.png"
+      },
+      {
+        "name": "Earth Day Recycling",
+        "index": 9,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/04/Card-Jitsu_Cards_full_509.png"
+      },
+      {
+        "name": "Penguin Play Awards",
+        "index": 10,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/76/Card-Jitsu_Cards_full_510.png"
+      },
+      {
+        "name": "Goal",
+        "index": 11,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/72/Card-Jitsu_Cards_full_511.png"
+      },
+      {
+        "name": "Bamboo Forest Sketch",
+        "index": 12,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c5/Card-Jitsu_Cards_full_512.png"
+      },
+      {
+        "name": "The Mine Cave Is Safe",
+        "index": 13,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/74/Card-Jitsu_Cards_full_513.png"
+      },
+      {
+        "name": "Mine Cave Construction",
+        "index": 14,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/bd/Card-Jitsu_Cards_full_514.png"
+      },
+      {
+        "name": "Guardian Dog",
+        "index": 15,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/e1/Card-Jitsu_Cards_full_515.png"
+      },
+      {
+        "name": "The Fair",
+        "index": 16,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d1/Card-Jitsu_Cards_full_516.png"
+      },
+      {
+        "name": "Hockey Gear",
+        "index": 17,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/1b/Card-Jitsu_Cards_full_517.png"
+      },
+      {
+        "name": "Puffle Show",
+        "index": 18,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/0e/Card-Jitsu_Cards_full_518.png"
+      },
+      {
+        "name": "Holiday Gifts",
+        "index": 19,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/93/Card-Jitsu_Cards_full_519.png"
+      },
+      {
+        "name": "Holiday Activities",
+        "index": 20,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c3/Card-Jitsu_Cards_full_520.png"
+      },
+      {
+        "name": "Stadium",
+        "index": 21,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/52/Card-Jitsu_Cards_full_521.png"
+      },
+      {
+        "name": "Igloo Items",
+        "index": 22,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/0a/Card-Jitsu_Cards_full_522.png"
+      },
+      {
+        "name": "Music Jam",
+        "index": 23,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/41/Card-Jitsu_Cards_full_523.png"
+      },
+      {
+        "name": "Elite Penguin Sketch",
+        "index": 24,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/42/Card-Jitsu_Cards_full_524.png"
+      },
+      {
+        "name": "Festival Of Flight",
+        "index": 25,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/8c/Card-Jitsu_Cards_full_525.png"
+      },
+      {
+        "name": "Test Glider",
+        "index": 26,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/76/Card-Jitsu_Cards_full_526.png"
+      },
+      {
+        "name": "Puffle Paddle",
+        "index": 27,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/cb/Card-Jitsu_Cards_full_527.png"
+      },
+      {
+        "name": "Fancy Formal Wear",
+        "index": 28,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/6b/Card-Jitsu_Cards_full_528.png"
+      },
+      {
+        "name": "The Docks",
+        "index": 29,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/ae/Card-Jitsu_Cards_full_529.png"
+      },
+      {
+        "name": "Orange Puffle",
+        "index": 30,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2c/Card-Jitsu_Cards_full_530.png"
+      },
+      {
+        "name": "Community Tree",
+        "index": 31,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/f9/Card-Jitsu_Cards_full_531.png"
+      },
+      {
+        "name": "Community Garden",
+        "index": 32,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/16/Card-Jitsu_Cards_full_532.png"
+      },
+      {
+        "name": "Island Adventure Party",
+        "index": 33,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/42/Card-Jitsu_Cards_full_533.png"
+      },
+      {
+        "name": "Shops In Igloos",
+        "index": 34,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/0a/Card-Jitsu_Cards_full_534.png"
+      },
+      {
+        "name": "SeafarerS Gown",
+        "index": 35,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/91/Card-Jitsu_Cards_full_535.png"
+      },
+      {
+        "name": "Music Jam Dancers",
+        "index": 36,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/13/Card-Jitsu_Cards_full_536.png"
+      },
+      {
+        "name": "Music Jam Rock Stage",
+        "index": 37,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/ee/Card-Jitsu_Cards_full_537.png"
+      },
+      {
+        "name": "Music Jam Pop Stage",
+        "index": 38,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/97/Card-Jitsu_Cards_full_538.png"
+      },
+      {
+        "name": "Underwater Adventure",
+        "index": 39,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/bb/Card-Jitsu_Cards_full_539.png"
+      },
+      {
+        "name": "Norman Swarm",
+        "index": 40,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2b/Card-Jitsu_Cards_full_540.png"
+      },
+      {
+        "name": "Puffle Rescuer",
+        "index": 41,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/6c/Card-Jitsu_Cards_full_541.png"
+      },
+      {
+        "name": "Everyday Phoning Facility",
+        "index": 42,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/3b/Card-Jitsu_Cards_full_542.png"
+      },
+      {
+        "name": "Jet Packs",
+        "index": 43,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/51/Card-Jitsu_Cards_full_543.png"
+      },
+      {
+        "name": "Pumpkin Igloo",
+        "index": 44,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/4e/Card-Jitsu_Cards_full_544.png"
+      },
+      {
+        "name": "Treasure Hunt Adventure",
+        "index": 45,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/57/Card-Jitsu_Cards_full_545.png"
+      },
+      {
+        "name": "Destroyed Psa Hq",
+        "index": 46,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/02/Card-Jitsu_Cards_full_546.png"
+      },
+      {
+        "name": "Captains",
+        "index": 47,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/ec/Card-Jitsu_Cards_full_547.png"
+      },
+      {
+        "name": "April Fools",
+        "index": 48,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c1/Card-Jitsu_Cards_full_548.png"
+      },
+      {
+        "name": "The Great Snow Maze",
+        "index": 49,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/1e/Card-Jitsu_Cards_full_549.png"
+      },
+      {
+        "name": "Jacques Hammer",
+        "index": 50,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/76/Card-Jitsu_Cards_full_550.png"
+      },
+      {
+        "name": "Throne Of April Fools",
+        "index": 51,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/9d/Card-Jitsu_Cards_full_551.png"
+      },
+      {
+        "name": "The Test",
+        "index": 52,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/26/Card-Jitsu_Cards_full_552.png"
+      },
+      {
+        "name": "Cloud Maker 3000",
+        "index": 53,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c0/Card-Jitsu_Cards_full_553.png"
+      },
+      {
+        "name": "Super Exclusives",
+        "index": 54,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/f7/Card-Jitsu_Cards_full_554.png"
+      },
+      {
+        "name": "Rockslide At The Mine",
+        "index": 55,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/8f/Card-Jitsu_Cards_full_555.png"
+      },
+      {
+        "name": "MerPenguins",
+        "index": 56,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d3/Card-Jitsu_Cards_full_556.png"
+      },
+      {
+        "name": "Puffer Fish",
+        "index": 57,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/bb/Card-Jitsu_Cards_full_557.png"
+      },
+      {
+        "name": "Garden Hose",
+        "index": 58,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/e0/Card-Jitsu_Cards_full_558.png"
+      },
+      {
+        "name": "Fixing The Mine Shack",
+        "index": 59,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/1e/Card-Jitsu_Cards_full_559.png"
+      },
+      {
+        "name": "Puffle Circus",
+        "index": 60,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/1d/Card-Jitsu_Cards_full_560.png"
+      },
+      {
+        "name": "Puffle Play Sketch",
+        "index": 61,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/76/Card-Jitsu_Cards_full_561.png"
+      },
+      {
+        "name": "Dragon Statue",
+        "index": 62,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/ad/Card-Jitsu_Cards_full_562.png"
+      },
+      {
+        "name": "Popcorn Party",
+        "index": 63,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c5/Card-Jitsu_Cards_full_563.png"
+      },
+      {
+        "name": "White Puffle Room",
+        "index": 64,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/84/Card-Jitsu_Cards_full_564.png"
+      },
+      {
+        "name": "Green Puffle Sketch",
+        "index": 65,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c9/Card-Jitsu_Cards_full_565.png"
+      },
+      {
+        "name": "Fishbowl Igloo",
+        "index": 66,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/67/Card-Jitsu_Cards_full_566.png"
+      },
+      {
+        "name": "Ship Battle Adventure",
+        "index": 67,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/7b/Card-Jitsu_Cards_full_567.png"
+      },
+      {
+        "name": "Elite Penguin Force",
+        "index": 68,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/63/Card-Jitsu_Cards_full_568.png"
+      },
+      {
+        "name": "RockhopperS Notice Board",
+        "index": 69,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/a1/Card-Jitsu_Cards_full_569.png"
+      },
+      {
+        "name": "Squid Lid",
+        "index": 70,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/8f/Card-Jitsu_Cards_full_570.png"
+      },
+      {
+        "name": "Hidden Lake",
+        "index": 71,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/0d/Card-Jitsu_Cards_full_571.png"
+      },
+      {
+        "name": "Orange Puffle Wagon",
+        "index": 72,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/ad/Card-Jitsu_Cards_full_572.png"
+      },
+      {
+        "name": "Haunted House",
+        "index": 73,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b4/Card-Jitsu_Cards_full_573.png"
+      },
+      {
+        "name": "Fire Dragon",
+        "index": 74,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/04/Card-Jitsu_Cards_full_574.png"
+      },
+      {
+        "name": "Puffle Rescue Underground",
+        "index": 75,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/26/Card-Jitsu_Cards_full_575.png"
+      },
+      {
+        "name": "Double Necked Guitar",
+        "index": 76,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/65/Card-Jitsu_Cards_full_576.png"
+      },
+      {
+        "name": "Puffle Rescue Ice Floes",
+        "index": 77,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/8e/Card-Jitsu_Cards_full_577.png"
+      },
+      {
+        "name": "Spy Phone",
+        "index": 78,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/a2/Card-Jitsu_Cards_full_578.png"
+      },
+      {
+        "name": "Dance Contest",
+        "index": 79,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d7/Card-Jitsu_Cards_full_579.png"
+      },
+      {
+        "name": "Crab Costume",
+        "index": 80,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/f4/Card-Jitsu_Cards_full_580.png"
+      },
+      {
+        "name": "Puffle Washer",
+        "index": 81,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/06/Card-Jitsu_Cards_full_581.png"
+      },
+      {
+        "name": "Green Jackhammer",
+        "index": 82,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/df/Card-Jitsu_Cards_full_582.png"
+      },
+      {
+        "name": "The Veggie Villain",
+        "index": 83,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/9f/Card-Jitsu_Cards_full_583.png"
+      },
+      {
+        "name": "Island Lifter 3000",
+        "index": 84,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/09/Card-Jitsu_Cards_full_584.png"
+      },
+      {
+        "name": "Flare",
+        "index": 85,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/8d/Card-Jitsu_Cards_full_585.png"
+      },
+      {
+        "name": "Popcorn Device",
+        "index": 86,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/3e/Card-Jitsu_Cards_full_586.png"
+      },
+      {
+        "name": "FieldOps",
+        "index": 87,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/91/Card-Jitsu_Cards_full_587.png"
+      },
+      {
+        "name": "Recipe For Disaster",
+        "index": 88,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/32/Card-Jitsu_Cards_full_588.png"
+      },
+      {
+        "name": "Elite Agent",
+        "index": 89,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d0/Card-Jitsu_Cards_full_589.png"
+      },
+      {
+        "name": "Aunt Arctic Sketch",
+        "index": 90,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/06/Card-Jitsu_Cards_full_590.png"
+      },
+      {
+        "name": "Yeti Cave",
+        "index": 91,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b0/Card-Jitsu_Cards_full_591.png"
+      },
+      {
+        "name": "Shocktopus",
+        "index": 92,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/4d/Card-Jitsu_Cards_full_592.png"
+      },
+      {
+        "name": "Puffle Rescue Underwater",
+        "index": 93,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/28/Card-Jitsu_Cards_full_593.png"
+      },
+      {
+        "name": "Hidden Lake Lock",
+        "index": 94,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/eb/Card-Jitsu_Cards_full_594.png"
+      },
+      {
+        "name": "KnightS Quest",
+        "index": 95,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/55/Card-Jitsu_Cards_full_595.png"
+      },
+      {
+        "name": "Customize Your Penguin - Aqua Disco Background",
+        "index": 96,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/a3/Card-Jitsu_Cards_full_C_6-1.png"
+      },
+      {
+        "name": "Customize Your Penguin - The Melody Background",
+        "index": 97,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b9/Card-Jitsu_Cards_full_C_6-2.png"
+      },
+      {
+        "name": "Customize Your Penguin - Purple Stars Background",
+        "index": 98,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/a9/Card-Jitsu_Cards_full_C_6-3.png"
+      },
+      {
+        "name": "Customize Your Penguin - Purple Wave Background",
+        "index": 99,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/e8/Card-Jitsu_Cards_full_C_6-4.png"
+      },
+      {
+        "name": "Customize Your Penguin - Underwater Adventure Background",
+        "index": 100,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/11/Card-Jitsu_Cards_full_C_6-5.png"
+      },
+      {
+        "name": "Customize Your Penguin - Winter Wonderland Background",
+        "index": 101,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/a7/Card-Jitsu_Cards_full_C_6-6.png"
+      },
+      {
+        "name": "Customize Your Penguin - Garden Background",
+        "index": 102,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/63/Card-Jitsu_Cards_full_C_6-7.png"
+      },
+      {
+        "name": "Customize Your Penguin - Paint Splatter Background",
+        "index": 103,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/34/Card-Jitsu_Cards_full_C_6-8.png"
+      },
+      {
+        "name": "Customize Your Penguin - Coral Reef Background",
+        "index": 104,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2d/Card-Jitsu_Cards_full_C_6-9.png"
+      },
+      {
+        "name": "Customize Your Penguin - Phoenix QueenS Background",
+        "index": 105,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/95/Card-Jitsu_Cards_full_C_6-10.png"
+      },
+      {
+        "name": "Customize Your Penguin - Hidden Treasure Background",
+        "index": 106,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/e4/Card-Jitsu_Cards_full_C_6-11.png"
+      },
+      {
+        "name": "Customize Your Penguin - Recycle Decal Background",
+        "index": 107,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/6f/Card-Jitsu_Cards_full_C_6-12.png"
+      },
+      {
+        "name": "Customize Your Penguin - DragonS Lair Background",
+        "index": 108,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/28/Card-Jitsu_Cards_full_C_6-13.png"
+      },
+      {
+        "name": "Customize Your Penguin - Adventure Background Id 9061",
+        "index": 109,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/40/Card-Jitsu_Cards_full_C_6-14.png"
+      },
+      {
+        "name": "Customize Your Penguin - Treasure Cove Background",
+        "index": 110,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c2/Card-Jitsu_Cards_full_C_6-15.png"
+      },
+      {
+        "name": "Water Video Sketch",
+        "index": 111,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/09/Card-Jitsu_Cards_full_Water_Video_Sketch.jpeg"
+      },
+      {
+        "name": "Water Ninja",
+        "index": 112,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/8e/Card-Jitsu_Cards_full_Water_Ninja.jpeg"
+      },
+      {
+        "name": "Water Sensei",
+        "index": 113,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/38/Card-Jitsu_Cards_full_Water_Sensei.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "Card-Jitsu: Water Second Wave",
+    "key": "cj-water-second-wave",
+    "cards": [
+      {
+        "name": "Spooky Igloo Contest",
+        "index": 1,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/14/Card-Jitsu_Cards_full_601.png"
+      },
+      {
+        "name": "Halloween Countdown",
+        "index": 2,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/88/Card-Jitsu_Cards_full_602.png"
+      },
+      {
+        "name": "Stormy Skies",
+        "index": 3,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/80/Card-Jitsu_Cards_full_603.png"
+      },
+      {
+        "name": "5Th Anniversary Party",
+        "index": 4,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/11/Card-Jitsu_Cards_full_604.png"
+      },
+      {
+        "name": "5Th Anniversary Cake",
+        "index": 5,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d2/Card-Jitsu_Cards_full_605.png"
+      },
+      {
+        "name": "5Th Anniversary Yearbook",
+        "index": 6,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/8c/Card-Jitsu_Cards_full_606.png"
+      },
+      {
+        "name": "Snowball Fight",
+        "index": 7,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/07/Card-Jitsu_Cards_full_607.png"
+      },
+      {
+        "name": "Find Four",
+        "index": 8,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d2/Card-Jitsu_Cards_full_608.png"
+      },
+      {
+        "name": "Cozy Ski Lodge",
+        "index": 9,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/85/Card-Jitsu_Cards_full_609.png"
+      },
+      {
+        "name": "Holiday Decorations",
+        "index": 10,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/1e/Card-Jitsu_Cards_full_610.png"
+      },
+      {
+        "name": "Book Room Adventures",
+        "index": 11,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2b/Card-Jitsu_Cards_full_611.png"
+      },
+      {
+        "name": "Halloween Forest",
+        "index": 12,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c5/Card-Jitsu_Cards_full_612.png"
+      },
+      {
+        "name": "Brown Puffle Rocket",
+        "index": 13,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/bb/Card-Jitsu_Cards_full_613.png"
+      },
+      {
+        "name": "Fun At The Fair",
+        "index": 14,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/7c/Card-Jitsu_Cards_full_614.png"
+      },
+      {
+        "name": "Ski Hill Challenge",
+        "index": 15,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/6b/Card-Jitsu_Cards_full_615.png"
+      },
+      {
+        "name": "Holiday Party Skating",
+        "index": 16,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/57/Card-Jitsu_Cards_full_616.png"
+      },
+      {
+        "name": "Treasure",
+        "index": 17,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d6/Card-Jitsu_Cards_full_617.png"
+      },
+      {
+        "name": "Lumberjack Look",
+        "index": 18,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/11/Card-Jitsu_Cards_full_618.png"
+      },
+      {
+        "name": "Pink Sparkle Snowshoes",
+        "index": 19,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/24/Card-Jitsu_Cards_full_619.png"
+      },
+      {
+        "name": "Holiday Tree 2010",
+        "index": 20,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/79/Card-Jitsu_Cards_full_620.png"
+      },
+      {
+        "name": "Fill The Lighthouse",
+        "index": 21,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/5b/Card-Jitsu_Cards_full_621.png"
+      },
+      {
+        "name": "Wilderness Machine",
+        "index": 22,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b1/Card-Jitsu_Cards_full_622.png"
+      },
+      {
+        "name": "Expedition Boat",
+        "index": 23,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/29/Card-Jitsu_Cards_full_623.png"
+      },
+      {
+        "name": "Wilderness Expedition Cave",
+        "index": 24,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/1a/Card-Jitsu_Cards_full_624.png"
+      },
+      {
+        "name": "Water Party Prep",
+        "index": 25,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d2/Card-Jitsu_Cards_full_625.png"
+      },
+      {
+        "name": "Water Dance",
+        "index": 26,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/54/Card-Jitsu_Cards_full_626.png"
+      },
+      {
+        "name": "Stamp Collectors",
+        "index": 27,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c3/Card-Jitsu_Cards_full_627.png"
+      },
+      {
+        "name": "Explore The Wilderness",
+        "index": 28,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/39/Card-Jitsu_Cards_full_628.png"
+      },
+      {
+        "name": "Coins For Change 2010",
+        "index": 29,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/ae/Card-Jitsu_Cards_full_629.png"
+      },
+      {
+        "name": "Penguin Colors",
+        "index": 30,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/79/Card-Jitsu_Cards_full_630.png"
+      },
+      {
+        "name": "Fairy Fables",
+        "index": 31,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/e4/Card-Jitsu_Cards_full_631.png"
+      },
+      {
+        "name": "Penguins That Time Forgot",
+        "index": 32,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/8d/Card-Jitsu_Cards_full_632.png"
+      },
+      {
+        "name": "Epf Sketch",
+        "index": 33,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/3f/Card-Jitsu_Cards_full_633.png"
+      },
+      {
+        "name": "Cove Stories",
+        "index": 34,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/cd/Card-Jitsu_Cards_full_634.png"
+      },
+      {
+        "name": "Orange Circus Puffle",
+        "index": 35,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/47/Card-Jitsu_Cards_full_635.png"
+      },
+      {
+        "name": "Hydro Hopper",
+        "index": 36,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/27/Card-Jitsu_Cards_full_636.png"
+      },
+      {
+        "name": "Igloo Party",
+        "index": 37,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/8d/Card-Jitsu_Cards_full_637.png"
+      },
+      {
+        "name": "Life Underwater",
+        "index": 38,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/60/Card-Jitsu_Cards_full_638.png"
+      },
+      {
+        "name": "HerbertS Monologue",
+        "index": 39,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/58/Card-Jitsu_Cards_full_639.png"
+      },
+      {
+        "name": "Enemy Bots",
+        "index": 40,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/38/Card-Jitsu_Cards_full_640.png"
+      },
+      {
+        "name": "Paint By Letters",
+        "index": 41,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/02/Card-Jitsu_Cards_full_641.png"
+      },
+      {
+        "name": "Secret Agent",
+        "index": 42,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/1d/Card-Jitsu_Cards_full_642.png"
+      },
+      {
+        "name": "Fireworks",
+        "index": 43,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2c/Card-Jitsu_Cards_full_643.png"
+      },
+      {
+        "name": "Epf Tech Agent",
+        "index": 44,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d2/Card-Jitsu_Cards_full_644.png"
+      },
+      {
+        "name": "Popcorn Explosion",
+        "index": 45,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d5/Card-Jitsu_Cards_full_645.png"
+      },
+      {
+        "name": "Walk Your Puffle",
+        "index": 46,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/9b/Card-Jitsu_Cards_full_646.png"
+      },
+      {
+        "name": "Sumo Smash",
+        "index": 47,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/dd/Card-Jitsu_Cards_full_647.png"
+      },
+      {
+        "name": "Inventive Brown Puffle",
+        "index": 48,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b1/Card-Jitsu_Cards_full_648.png"
+      },
+      {
+        "name": "Holiday Party Tree",
+        "index": 49,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/14/Card-Jitsu_Cards_full_649.png"
+      },
+      {
+        "name": "Epf Enemies",
+        "index": 50,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/99/Card-Jitsu_Cards_full_650.png"
+      },
+      {
+        "name": "Tall Tree Maze",
+        "index": 51,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/65/Card-Jitsu_Cards_full_651.png"
+      },
+      {
+        "name": "Sled N Slide",
+        "index": 52,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/dd/Card-Jitsu_Cards_full_652.png"
+      },
+      {
+        "name": "Underwater At The Stage",
+        "index": 53,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/ff/Card-Jitsu_Cards_full_653.png"
+      },
+      {
+        "name": "Wilderness Expedition Travel",
+        "index": 54,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/7f/Card-Jitsu_Cards_full_654.png"
+      },
+      {
+        "name": "Catch The Mullet",
+        "index": 55,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/df/Card-Jitsu_Cards_full_655.png"
+      },
+      {
+        "name": "Great Puffle Circus",
+        "index": 56,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/0c/Card-Jitsu_Cards_full_656.png"
+      },
+      {
+        "name": "Intense Black Puffle",
+        "index": 57,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b5/Card-Jitsu_Cards_full_657.png"
+      },
+      {
+        "name": "Brown Puffle Storyboard",
+        "index": 58,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/79/Card-Jitsu_Cards_full_658.png"
+      },
+      {
+        "name": "Java Jump",
+        "index": 59,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/68/Card-Jitsu_Cards_full_659.png"
+      },
+      {
+        "name": "Wii Game Day Goal",
+        "index": 60,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/01/Card-Jitsu_Cards_full_670.png"
+      },
+      {
+        "name": "Epic White Puffle",
+        "index": 61,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/35/Card-Jitsu_Cards_full_671.png"
+      },
+      {
+        "name": "Awesome Blue Puffle",
+        "index": 62,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/a4/Card-Jitsu_Cards_full_672.png"
+      },
+      {
+        "name": "Feed A Puffle",
+        "index": 63,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b0/Card-Jitsu_Cards_full_673.png"
+      },
+      {
+        "name": "Ninja Battle",
+        "index": 64,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/fb/Card-Jitsu_Cards_full_674.png"
+      },
+      {
+        "name": "The Mystery Of Sensei",
+        "index": 65,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/e2/Card-Jitsu_Cards_full_675.png"
+      },
+      {
+        "name": "Master The Elements",
+        "index": 66,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/9d/Card-Jitsu_Cards_full_660.png"
+      },
+      {
+        "name": "Brown Puffle",
+        "index": 67,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/7f/Card-Jitsu_Cards_full_677.png"
+      },
+      {
+        "name": "Fire Wave",
+        "index": 68,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/8c/Card-Jitsu_Cards_full_678.png"
+      },
+      {
+        "name": "Black Puffles In Cart Surfer",
+        "index": 69,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/cb/Card-Jitsu_Cards_full_679.png"
+      },
+      {
+        "name": "Mountain Expedition",
+        "index": 70,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/09/Card-Jitsu_Cards_full_680.png"
+      },
+      {
+        "name": "Climbing The Mountain",
+        "index": 71,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/32/Card-Jitsu_Cards_full_681.png"
+      },
+      {
+        "name": "Top Of The Tallest Mountain",
+        "index": 72,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/ad/Card-Jitsu_Cards_full_682.png"
+      },
+      {
+        "name": "Cart Surfer Stamps",
+        "index": 73,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/3a/Card-Jitsu_Cards_full_683.png"
+      },
+      {
+        "name": "Stamp Book",
+        "index": 74,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d6/Card-Jitsu_Cards_full_684.png"
+      },
+      {
+        "name": "Stormy Sky",
+        "index": 75,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d7/Card-Jitsu_Cards_full_685.png"
+      },
+      {
+        "name": "Water Wave Sketches",
+        "index": 76,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/f1/Card-Jitsu_Cards_full_686.png"
+      },
+      {
+        "name": "Storm Baffles Gary",
+        "index": 77,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/fb/Card-Jitsu_Cards_full_687.png"
+      },
+      {
+        "name": "Water Ninja",
+        "index": 78,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/fa/Card-Jitsu_Cards_full_688.png"
+      },
+      {
+        "name": "The First Rainstorm",
+        "index": 79,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/42/Card-Jitsu_Cards_full_689.png"
+      },
+      {
+        "name": "Ninja FaceOff",
+        "index": 80,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/f8/Card-Jitsu_Cards_full_690.png"
+      },
+      {
+        "name": "Earning The Water Suit",
+        "index": 81,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/64/Card-Jitsu_Cards_full_691.png"
+      },
+      {
+        "name": "Water Pumping Gadget",
+        "index": 82,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/cf/Card-Jitsu_Cards_full_692.png"
+      },
+      {
+        "name": "Preparing The Water Dojo",
+        "index": 83,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c8/Card-Jitsu_Cards_full_693.png"
+      },
+      {
+        "name": "Gate To The Water Dojo",
+        "index": 84,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/4d/Card-Jitsu_Cards_full_694.png"
+      },
+      {
+        "name": "Water Suit",
+        "index": 85,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/fc/Card-Jitsu_Cards_full_695.png"
+      },
+      {
+        "name": "Sign From The Elements",
+        "index": 86,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c0/Card-Jitsu_Cards_full_696.png"
+      },
+      {
+        "name": "SenseiMaster Of Water",
+        "index": 87,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/42/Card-Jitsu_Cards_full_697.png"
+      },
+      {
+        "name": "Water Ninja Poster Sketch",
+        "index": 88,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/76/Card-Jitsu_Cards_full_698.png"
+      },
+      {
+        "name": "Water Ninja Sketch",
+        "index": 89,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/e3/Card-Jitsu_Cards_full_699.png"
+      },
+      {
+        "name": "Water Beats Fire Sketch",
+        "index": 90,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/a/aa/Card-Jitsu_Cards_full_700.png"
+      },
+      {
+        "name": "Blast",
+        "index": 91,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b2/Card-Jitsu_Cards_full_701.png"
+      },
+      {
+        "name": "Flare",
+        "index": 92,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/33/Card-Jitsu_Cards_full_702.png"
+      },
+      {
+        "name": "Chirp",
+        "index": 93,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/40/Card-Jitsu_Cards_full_703.png"
+      },
+      {
+        "name": "Pop",
+        "index": 94,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/ea/Card-Jitsu_Cards_full_704.png"
+      },
+      {
+        "name": "Loop",
+        "index": 95,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/8b/Card-Jitsu_Cards_full_705.png"
+      },
+      {
+        "name": "Flit",
+        "index": 96,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/4d/Card-Jitsu_Cards_full_706.png"
+      },
+      {
+        "name": "Bouncer",
+        "index": 97,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/e6/Card-Jitsu_Cards_full_707.png"
+      },
+      {
+        "name": "Niblet",
+        "index": 98,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/58/Card-Jitsu_Cards_full_709.png"
+      },
+      {
+        "name": "Puffles On The Loose",
+        "index": 99,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/79/Card-Jitsu_Cards_full_711.png"
+      },
+      {
+        "name": "Golden Puffle",
+        "index": 100,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/03/Card-Jitsu_Cards_full_713.png"
+      },
+      {
+        "name": "Meteor Puffle",
+        "index": 101,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/09/Card-Jitsu_Cards_full_714.png"
+      },
+      {
+        "name": "Rainbow Puffle",
+        "index": 102,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/4d/Card-Jitsu_Cards_full_715.png"
+      },
+      {
+        "name": "Abominable Snow Puffle",
+        "index": 103,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/46/Card-Jitsu_Cards_full_716.png"
+      },
+      {
+        "name": "Black Puffle",
+        "index": 104,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/37/Card-Jitsu_Cards_full_717.png"
+      },
+      {
+        "name": "Blue Puffle",
+        "index": 105,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/ce/Card-Jitsu_Cards_full_718.png"
+      },
+      {
+        "name": "Pink Puffle",
+        "index": 106,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/16/Card-Jitsu_Cards_full_719.png"
+      },
+      {
+        "name": "Green Puffle",
+        "index": 107,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/d9/Card-Jitsu_Cards_full_720.png"
+      },
+      {
+        "name": "Purple Puffle",
+        "index": 108,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/89/Card-Jitsu_Cards_full_721.png"
+      },
+      {
+        "name": "Red Puffle",
+        "index": 109,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2f/Card-Jitsu_Cards_full_722.png"
+      },
+      {
+        "name": "Yellow Puffle",
+        "index": 110,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/f/f1/Card-Jitsu_Cards_full_723.png"
+      },
+      {
+        "name": "Master The Elements",
+        "index": 111,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/5b/Card-Jitsu_Cards_full_676.png"
+      },
+      {
+        "name": "Fairy Fables Stage",
+        "index": 112,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c6/Card-Jitsu_Cards_full_661.png"
+      },
+      {
+        "name": "Creative Puffles",
+        "index": 113,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c4/Card-Jitsu_Cards_full_662.png"
+      },
+      {
+        "name": "Goofy Green Puffle",
+        "index": 114,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/1c/Card-Jitsu_Cards_full_663.png"
+      },
+      {
+        "name": "Epf Test Room Sketch",
+        "index": 115,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/da/Card-Jitsu_Cards_full_664.png"
+      },
+      {
+        "name": "Snowball Battle",
+        "index": 116,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/eb/Card-Jitsu_Cards_full_665.png"
+      },
+      {
+        "name": "Fabulous Purple Puffle",
+        "index": 117,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/54/Card-Jitsu_Cards_full_666.png"
+      },
+      {
+        "name": "Water Party Sketch",
+        "index": 118,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/80/Card-Jitsu_Cards_full_667.png"
+      },
+      {
+        "name": "Zany Orange Puffle",
+        "index": 119,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/9c/Card-Jitsu_Cards_full_668.png"
+      },
+      {
+        "name": "Sporty Pink Puffle",
+        "index": 120,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/4c/Card-Jitsu_Cards_full_669.png"
+      },
+      {
+        "name": "Puffle Round Up",
+        "index": 121,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2a/Card-Jitsu_Cards_full_724.png"
+      },
+      {
+        "name": "Fire Ninja Force",
+        "index": 122,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/4/47/Card-Jitsu_Cards_full_725.png"
+      },
+      {
+        "name": "Halloween Swamp",
+        "index": 123,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/d/db/Card-Jitsu_Cards_full_726.png"
+      },
+      {
+        "name": "Prepare For Pumpkins",
+        "index": 124,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/91/Card-Jitsu_Cards_full_727.png"
+      },
+      {
+        "name": "Finding Rockhopper",
+        "index": 125,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/5e/Card-Jitsu_Cards_full_728.png"
+      },
+      {
+        "name": "Giant Pearl",
+        "index": 126,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/9/95/Card-Jitsu_Cards_full_730.png"
+      },
+      {
+        "name": "Water Stamps",
+        "index": 127,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/1/18/Card-Jitsu_Cards_full_731.png"
+      },
+      {
+        "name": "Puffle Rescue",
+        "index": 128,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/71/Card-Jitsu_Cards_full_733.png"
+      },
+      {
+        "name": "Fire Dojo Challenge",
+        "index": 129,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/25/Card-Jitsu_Cards_full_734.png"
+      },
+      {
+        "name": "System Defender",
+        "index": 130,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/b5/Card-Jitsu_Cards_full_735.png"
+      },
+      {
+        "name": "Adventurous Red Puffle",
+        "index": 131,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c4/Card-Jitsu_Cards_full_736.png"
+      },
+      {
+        "name": "G And The Machine",
+        "index": 132,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/c0/Card-Jitsu_Cards_full_737.png"
+      },
+      {
+        "name": "Enemies Of The System",
+        "index": 133,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/74/Card-Jitsu_Cards_full_738.png"
+      },
+      {
+        "name": "Holiday Dojo Lights",
+        "index": 134,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/72/Card-Jitsu_Cards_full_739.png"
+      },
+      {
+        "name": "Wii Rollin Riot",
+        "index": 135,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/e/e3/Card-Jitsu_Cards_full_740.png"
+      },
+      {
+        "name": "Brown Puffle Cliff",
+        "index": 136,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/5b/Card-Jitsu_Cards_full_743.png"
+      },
+      {
+        "name": "Coins For Change Goal",
+        "index": 137,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/5/56/Card-Jitsu_Cards_full_744.png"
+      },
+      {
+        "name": "Sensei Water Battle",
+        "index": 138,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2d/Card-Jitsu_Cards_full_745.png"
+      },
+      {
+        "name": "Green Puffles In Jet Pack Adventure",
+        "index": 139,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/8b/Card-Jitsu_Cards_full_746.png"
+      },
+      {
+        "name": "Water Dojo",
+        "index": 140,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/7/72/Card-Jitsu_Cards_full_747.png"
+      },
+      {
+        "name": "White Puffle",
+        "index": 141,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/31/Card-Jitsu_Cards_full_748.png"
+      },
+      {
+        "name": "Yarr",
+        "index": 142,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/b/ba/Card-Jitsu_Cards_full_749.png"
+      },
+      {
+        "name": "Aqua Grabber",
+        "index": 143,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/6/69/Card-Jitsu_Cards_full_Aqua_Grabber.png"
+      },
+      {
+        "name": "Puffle Science",
+        "index": 144,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2d/Card-Jitsu_Cards_full_Puffle_Science%21.jpeg"
+      },
+      {
+        "name": "Puffle Partying",
+        "index": 145,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/0e/Card-Jitsu_Cards_full_Puffle_Partying.jpeg"
+      },
+      {
+        "name": "Keeper Of The Night Club",
+        "index": 146,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/c/cd/Card-Jitsu_Cards_full_750.png"
+      },
+      {
+        "name": "Epf Under Attack",
+        "index": 147,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/2/2e/Card-Jitsu_Cards_full_741.png"
+      },
+      {
+        "name": "Elite Comm Class Agents",
+        "index": 148,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/8/88/Card-Jitsu_Cards_full_742.png"
+      },
+      {
+        "name": "Epf Agents",
+        "index": 149,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/0/07/Card-Jitsu_Cards_full_732.png"
+      },
+      {
+        "name": "Elite Puffle Flare",
+        "index": 150,
+        "img": "https://static.wikia.nocookie.net/clubpenguin/images/3/36/Card-Jitsu_Cards_full_729.png"
+      }
+    ]
+  }
+]
