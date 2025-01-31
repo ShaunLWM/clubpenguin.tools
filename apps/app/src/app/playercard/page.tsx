@@ -39,52 +39,87 @@ export default function Page() {
 			<div className="flex flex-row">
 				<div className="relative" ref={ref}>
 					<Image
-						src="/assets/img/playercard/bg.png"
+						src="/assets/img/playercard/bg2.png"
 						alt="Player Card UI"
-						width={430}
-						height={0}
-					/>
-					<Image
-						className="absolute top-20 z-10"
-						src="/assets/img/playercard/color/base-1.png"
-						alt="Color"
-						width={399}
-						height={579}
-					/>
-					<Image
-						className="absolute top-20 z-10"
-						src="/assets/img/playercard/pin/615.png"
-						alt="Pin"
-						width={399}
-						height={579}
-					/>
-					<Image
-						className="absolute top-20 z-10"
-						src="/assets/img/playercard/neck/3015.png"
-						alt="Neck"
-						width={399}
-						height={579}
-					/>
-					<Image
-						className="absolute top-20 z-10"
-						src="/assets/img/playercard/head/21118.png"
-						alt="Head"
-						width={399}
-						height={579}
+						width={458}
+						height={642}
 					/>
 
 					<Image
-						src="/assets/img/playercard/background/902.png"
-						alt="Player Card"
-						width={399}
-						height={579}
-						className="absolute top-20 left-[-3px] [mask-image:url(/assets/img/playercard/mask.png)] [mask-size:362px_360px] [mask-position:18px_26px] [mask-repeat:no-repeat]
-  [-webkit-mask-repeat:no-repeat]"
+						className="absolute top-20 z-[1]"
+						src="/assets/img/playercard/body/201.png"
+						alt="Body"
+						width={600}
+						height={600}
+					/>
+
+					<Image
+						className="absolute top-20 z-100"
+						src="/assets/img/playercard/color/2.png"
+						alt="Color"
+						width={600}
+						height={600}
+					/>
+
+					<Image
+						className="absolute top-20"
+						src="/assets/img/playercard/face/101.png"
+						alt="Face"
+						width={600}
+						height={600}
+					/>
+
+					<Image
+						className="absolute top-20"
+						src="/assets/img/playercard/feet/351.png"
+						alt="Feet"
+						width={600}
+						height={600}
+					/>
+
+					<Image
+						className="absolute top-20 z-[3]"
+						src="/assets/img/playercard/hands/220.png"
+						alt="Hands"
+						width={600}
+						height={600}
+					/>
+
+					<Image
+						className="absolute top-20"
+						src="/assets/img/playercard/head/21118.png"
+						alt="Head"
+						width={600}
+						height={600}
+					/>
+
+					<Image
+						className="absolute top-20 z-[2]"
+						src="/assets/img/playercard/neck/3015.png"
+						alt="Neck"
+						width={600}
+						height={600}
+					/>
+
+					<Image
+						className="absolute top-[110px] left-4"
+						src="/assets/img/playercard/pin/615.png"
+						alt="Pin"
+						width={600}
+						height={600}
+					/>
+
+					<Image
+						src="/assets/img/playercard/background/903.png"
+						alt="Background"
+						width={600}
+						height={0}
+						className="absolute top-[113px] -z-[1] [mask-image:url(/assets/img/playercard/mask2.png)] [mask-size:410px_422px] [mask-position:22px_0px] [mask-repeat:no-repeat] [-webkit-mask-repeat:no-repeat]"
 					/>
 				</div>
 
-				<div className="flex flex-row bg-white/75 h-[530px] w-[450px] mt-10 ml-[-70px] pt-[20px] border-[3px] border-gray-800 rounded-3xl">
-					<div className="ml-[48px]">
+				<div className="flex flex-row bg-white/75 h-[594px] w-[450px] mt-10 ml-[-26px] pt-[20px] border-[3px] border-gray-800 rounded-r-3xl gap-3">
+					<div className="ml-[30px] mt-2">
 						<div className="grid grid-cols-3 grid-rows-4 gap-3 hover:cursor-pointer">
 							{ICONS_SAMPLE.map((_, i) => (
 								<div
@@ -97,7 +132,8 @@ export default function Page() {
 							))}
 						</div>
 					</div>
-					<div className="bg-red-100 h-full w-10 flex flex-col justify-between items-center pb-6">
+					<div className="h-full w-10 flex flex-col justify-between items-center pb-6 relative">
+						<div className="bg-blue-500 absolute h-full w-10 -z-[3] rounded-full" />
 						<Image
 							src="/assets/img/playercard/arrow.png"
 							alt="up"
